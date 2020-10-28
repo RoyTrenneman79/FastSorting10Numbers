@@ -33,3 +33,7 @@ function sortNet10(data) {    // ten-input sorting network by Waksman, 1969
 }
 
 alert(sortNet10([5,7,1,8,4,3,6,9,2,0]));
+
+alert(sortNet10([6,7,1,8,4,5,3,9,2,0]));
+
+alert(sortNet10([5,7,6,9,2,0,1,8,4,3]));
